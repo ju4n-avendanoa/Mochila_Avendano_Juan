@@ -14,7 +14,7 @@ El contenido de este repositorio incluye, pero no se limita a:
 
 ## Uso del Repositorio
 
-Los estudiantes matriculados en el curso **Introducción a la informática** pueden acceder a este repositorio y utilizarlo como guía, referencia y práctica complementaria a las clases y actividades del curso. Se recomienda clonar este repositorio en sus propias cuentas de GitHub y utilizarlo como base para sus trabajos.
+Los estudiantes matriculados en el curso **Introducción a la informática** pueden acceder a este repositorio y utilizarlo como guía, referencia y práctica complementaria a las clases y actividades del curso. 
 
 ## Contribuciones
 
