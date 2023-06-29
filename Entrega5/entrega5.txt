@@ -1,0 +1,29 @@
+
+Telnet:
+
+a) Ventajas: 
+1) Fácil de configurar y utilizar. 
+2) Amplia compatibilidad con diferentes sistemas operativos y dispositivos.
+
+b) Desventajas: 
+1) Transmite datos en texto plano, lo que lo hace vulnerable a ataques de escucha. 
+2) Carece de autenticación y cifrado, lo que compromete la seguridad de las comunicaciones.
+
+SSH:
+
+a) Ventajas: 
+1) Proporciona cifrado de extremo a extremo, protegiendo las comunicaciones de manera segura. 
+2) Permite la autenticación basada en claves y contraseñas seguras.
+
+b) Desventajas: 
+1) Puede requerir configuración adicional para permitir el acceso remoto. 
+2) Puede tener un mayor consumo de recursos en comparación con Telnet.
+
+Diferencias entre SSH y Telnet:
+
+a) Las principales diferencias entre SSH y Telnet son:
+
+1) Seguridad: SSH proporciona cifrado de datos, autenticación y protección contra ataques de escucha, mientras que Telnet transmite datos en texto plano sin cifrado ni autenticación segura.
+
+2) Cifrado: SSH utiliza cifrado para proteger las comunicaciones, mientras que Telnet no proporciona cifrado de datos.
+Características funcionales: SSH ofrece funcionalidades adicionales, como reenvío de puertos, transferencia de archivos y ejecución de comandos remotos, que Telnet no proporciona.
