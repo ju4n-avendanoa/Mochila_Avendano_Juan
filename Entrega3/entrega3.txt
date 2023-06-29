@@ -1,0 +1,22 @@
+- La compatibilidad de un lenguaje de programacion con un sistema 
+  operativo depende de factores como las caracter¡sticas del sistema  
+  operativo y del propio lenguaje, la disponibilidad de compiladores y 
+  entornos de ejecucion especificos, el cumplimiento de estandares y
+  especificaciones, y el soporte y la adopcion por parte de la comunidad 
+  de desarrolladores. Si alguno de estos elementos no esta presente en 
+  un sistema operativo, el lenguaje de programacion puede no ser compatible
+  o requerir adaptaciones significativas para funcionar en ese entorno.
+
+
+- VirtualBox es un software de virtualizacion de tipo 2, es decir, 
+  una maquina virtual de nivel de hipervisor. Actua como una capa 
+  intermedia entre el sistema operativo anfitri¢n y los sistemas operativos 
+  invitados, permitiendo ejecutar multiples sistemas operativos dentro de un 
+  unico entorno fisico
+
+- No, si una maquina virtual se rompe o experimenta un problema, no afectara
+  a las demas maquinas virtuales. Esto se debe a que cada maquina virtual se
+  ejecuta de forma aislada y tiene su propio entorno virtualizado separado del
+  resto. Cada maquina virtual tiene su propio sistema operativo, aplicaciones  
+  y archivos, lo que significa que los problemas en una maquina virtual no se
+  propagaran ni afectaran a otras maquinas virtuales en el mismo entorno.
