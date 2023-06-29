@@ -1,0 +1,7 @@
+Direccion IP publica: 191.95.158.222
+
+Direccion IP privada: 192.168.1.72
+
+Direccion MAC: 08:00:27:49:eb:ba
+
+Si son diferentes la IP publica y privada de la maquina virtual a la maquina host
